@@ -1,1 +1,2 @@
 I am learning how to use Git! Hope to be a Git Ninja.
+Learning is a process.. Git is not different
